@@ -1,6 +1,7 @@
 # CPlusPlus-Data-Structure-Projects
 Four (4) data structure related projects completed as part of an introductory CS class at UCLA.
 
+
 Project 1: A zombie game completed from provided skeleton, with extensive use of pointers
 
 Project 2: Implemented a **doubly-linked list**. A few implemented methods of the data structure include:
