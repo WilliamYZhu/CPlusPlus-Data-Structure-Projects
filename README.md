@@ -3,7 +3,7 @@ Four (4) data structure related projects completed as part of an introductory CS
 
 **Project 1:** A zombie game completed from provided skeleton, with extensive use of pointers
 
-**Project 2:** Implemented a **doubly-linked list**. A few implemented methods of the data structure include:
+**Project 2:** Implemented a **doubly-linked list**, with methods such as:
 - inserting and deleting a node
 - copying a list (with the = operator correctly overloaded)
 - an algorithm finding the existence of a particular subsequence inside a linked list
